@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Сайт</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content=""мой сайт, html, сайт">
+    <meta name="description" content="Это мой первый сайт">
+   
+  </head>
+
+  <body>
+
+
+хороший день
+
+
+  <h1>Заголовок 1</h1>
+     <h2>Заголовок 2</h2>
+     <h6>Заголовок 7</h6>
+  </body>
+
+
+
+
+</html>
+
